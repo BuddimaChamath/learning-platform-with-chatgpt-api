@@ -1,0 +1,97 @@
+{
+  "count": 13,
+  "requests": [
+    {
+      "timestamp": "2025-09-04T07:09:38.727Z",
+      "userId": "68b67cd14f5767801693d5da",
+      "prompt": "I want to become a full-stack web developer",
+      "success": true,
+      "error": null
+    },
+    {
+      "timestamp": "2025-09-04T08:56:57.585Z",
+      "userId": "68b9378afbfdef215452a53e",
+      "prompt": "I'm a beginner and want to learn programming",
+      "success": true,
+      "error": null
+    },
+    {
+      "timestamp": "2025-09-04T15:42:07.359Z",
+      "userId": "68b67cd14f5767801693d5da",
+      "prompt": "suggest me some beginner couses",
+      "success": true,
+      "error": null
+    },
+    {
+      "timestamp": "2025-09-04T16:15:57.325Z",
+      "userId": "68b95af1d952ab8ed6263900",
+      "prompt": "web development beginner couses",
+      "success": true,
+      "error": null
+    },
+    {
+      "timestamp": "2025-09-04T16:16:36.692Z",
+      "userId": "68b95af1d952ab8ed6263900",
+      "prompt": "I want to become a full-stack web developer",
+      "success": true,
+      "error": null
+    },
+    {
+      "timestamp": "2025-09-04T16:17:49.761Z",
+      "userId": "68b95af1d952ab8ed6263900",
+      "prompt": "web development beginner courses\n",
+      "success": true,
+      "error": null
+    },
+    {
+      "timestamp": "2025-09-04T16:22:58.801Z",
+      "userId": "68b95af1d952ab8ed6263900",
+      "prompt": "I'm a beginner and want to learn programming",
+      "success": true,
+      "error": null
+    },
+    {
+      "timestamp": "2025-09-04T16:30:13.395Z",
+      "userId": "68b67cd14f5767801693d5da",
+      "prompt": "web development beginner courses",
+      "success": true,
+      "error": null
+    },
+    {
+      "timestamp": "2025-09-04T16:36:40.662Z",
+      "userId": "68b67cd14f5767801693d5da",
+      "prompt": "I want to become a full-stack web developer. What courses should I take?",
+      "success": true,
+      "error": null
+    },
+    {
+      "timestamp": "2025-09-04T16:45:18.407Z",
+      "userId": "68b67cd14f5767801693d5da",
+      "prompt": "I want to become a full-stack web developer",
+      "success": true,
+      "error": null
+    },
+    {
+      "timestamp": "2025-09-04T19:10:28.680Z",
+      "userId": "68b67cd14f5767801693d5da",
+      "prompt": "I want to become a full-stack web developer",
+      "success": true,
+      "error": null
+    },
+    {
+      "timestamp": "2025-09-04T19:50:33.379Z",
+      "userId": "68b67cd14f5767801693d5da",
+      "prompt": "web development beginner courses",
+      "success": true,
+      "error": null
+    },
+    {
+      "timestamp": "2025-09-05T08:46:19.853Z",
+      "userId": "68b67cd14f5767801693d5da",
+      "prompt": "python",
+      "success": true,
+      "error": null
+    }
+  ],
+  "startDate": "2025-09-04T07:09:32.819Z"
+}
