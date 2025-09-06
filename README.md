@@ -142,4 +142,4 @@ REACT_APP_API_URL=http://localhost:5000/api
 
 ⭐ **Star this repository if you found it helpful!**
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Buddima Chamath Kumara**
